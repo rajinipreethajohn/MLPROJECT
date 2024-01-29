@@ -1,4 +1,9 @@
 pandas
 numpy
 seaborn
--e .
+matplotlib
+
+#Undo the below after the entire project is completed,
+#Else it builds project each time from scratch
+
+#-e . 
